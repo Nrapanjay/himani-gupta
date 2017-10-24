@@ -1,4 +1,4 @@
 # himani-gupta
-my first project
+My first project
 
-this is my fisrt project help me to use github.
+This is my fisrt project help me to use github.
